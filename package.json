@@ -1,10 +1,14 @@
 {
-  "name": "parcialdiweb",
+  "name": "ejercicios",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ejercicio1": "node ejercicios/ejercicio-01.js",
+    "ejercicio2": "node ejercicios/ejercicio-02.js",
+    "ejercicio3": "node ejercicios/ejercicio-03.js",
+    "ejercicio4": "node ejercicios/ejercicio-04.js",
+    "ejercicio5": "node ejercicios/ejercicio-05.js"
   },
   "repository": {
     "type": "git",
